@@ -16,7 +16,7 @@
 
 - **Vector** ([usevector.app](https://usevector.app)) - Lavalab Demo Day Winner
 - **Ideavine** ([useideavine.com](https://useideavine.com)) - >1,000 users
-- **Handover** (Automate Code Documentation) - SEP Demo Day Winner, customers worth >$2.5M acquisition
+- **Handover** (Automate Code Documentation) - SEP Demo Day Winner, customers worth >$2.5M
 
 ## 🏆 Hackathon Wins
 
