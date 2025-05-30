@@ -2,7 +2,7 @@
 
 **Software Engineer & ML Researcher | Building scalable solutions across travel, AI, and automation**
 
-[LinkedIn](https://www.linkedin.com/in/vishnu-swarup-kadaba/)
+[Website](https://www.vishnukadaba.dev/) | [LinkedIn](https://www.linkedin.com/in/vishnu-swarup-kadaba/)
 
 ---
 
@@ -14,8 +14,8 @@
 
 ## 🚀 Startups Built
 
-- **Vector** ([usevector.app](https://usevector.app)) - Lavalab Demo Day Winner
-- **Ideavine** ([useideavine.com](https://useideavine.com)) - >1,000 users
+- **[Vector](https://usevector.app)** - Lavalab Demo Day Winner
+- **[Ideavine](https://useideavine.com)** - >1,000 users
 - **Handover** (Automate Code Documentation) - SEP Demo Day Winner, customers worth >$2.5M
 
 ## 🏆 Hackathon Wins
