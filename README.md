@@ -8,7 +8,7 @@
 
 ## 🚀 Experience
 
-- **ML @Expedia Group** - Quantitative Bidding Algorithms (curr)
+- **ML @Expedia Group** - Quantitative Bidding Algorithms
 - **Applied AI @Vellum** -  Full-Stack Engineering for LLM Workflows
 - **Applied AI @Ushur** - Engineering Model Backends and Platforms
 
